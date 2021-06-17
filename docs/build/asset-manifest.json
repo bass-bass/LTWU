@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LTWU/static/css/main.af415424.chunk.css",
+    "main.js": "/LTWU/static/js/main.6a62f24e.chunk.js",
+    "main.js.map": "/LTWU/static/js/main.6a62f24e.chunk.js.map",
+    "runtime-main.js": "/LTWU/static/js/runtime-main.ab478fba.js",
+    "runtime-main.js.map": "/LTWU/static/js/runtime-main.ab478fba.js.map",
+    "static/js/2.8c36ee57.chunk.js": "/LTWU/static/js/2.8c36ee57.chunk.js",
+    "static/js/2.8c36ee57.chunk.js.map": "/LTWU/static/js/2.8c36ee57.chunk.js.map",
+    "static/js/3.63dcf041.chunk.js": "/LTWU/static/js/3.63dcf041.chunk.js",
+    "static/js/3.63dcf041.chunk.js.map": "/LTWU/static/js/3.63dcf041.chunk.js.map",
+    "index.html": "/LTWU/index.html",
+    "static/css/main.af415424.chunk.css.map": "/LTWU/static/css/main.af415424.chunk.css.map",
+    "static/js/2.8c36ee57.chunk.js.LICENSE.txt": "/LTWU/static/js/2.8c36ee57.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/LTWU/static/media/background.936d350a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab478fba.js",
+    "static/js/2.8c36ee57.chunk.js",
+    "static/css/main.af415424.chunk.css",
+    "static/js/main.6a62f24e.chunk.js"
+  ]
+}
