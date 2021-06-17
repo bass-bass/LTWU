@@ -7,12 +7,51 @@
   pointer-events: none;
 }
 
+.jumbotron {
+  height:400px;
+  text-align:center;
+  background-image: url(/src/background.png);
+}
+.jumbotron h1{
+  color:lightcyan;
+  opacity:0.8;
+  font-size:3.5rem;
+}
+.jumbotron p{
+  color:lavender;
+  opacity:0.9;
+  font-size:1rem;
+}
+.btn {
+  float:right;
+}
+/*
+.modal-dialog {
+  
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.6);
+  
+  width: 100vw;
+}*/
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.col-md-4 {
+  margin-bottom:50px;
+}
+.card {
+  box-shadow: 1px 3px 2px #5c5959;
+}
 
+/*
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -36,3 +75,4 @@
     transform: rotate(360deg);
   }
 }
+*/
