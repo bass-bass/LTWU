@@ -1,0 +1,1 @@
+Rails APIとReactで作成した掲示板サービスです。
