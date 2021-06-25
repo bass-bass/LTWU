@@ -11,6 +11,7 @@
   height:400px;
   text-align:center;
   background-image: url(/src/background.png);
+  background-size:cover;
 }
 .jumbotron h1{
   color:lightcyan;
