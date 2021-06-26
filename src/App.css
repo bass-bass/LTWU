@@ -11,7 +11,6 @@
   height:400px;
   text-align:center;
   background-image: url(/src/background.png);
-  background-size:cover;
 }
 .jumbotron h1{
   color:lightcyan;
@@ -26,12 +25,15 @@
 .btn {
   float:right;
 }
+<<<<<<< HEAD
 .card-footer {
   padding: .35rem 1.25rem;
 <<<<<<< HEAD
 }
 =======
 >>>>>>> 5e37744e165521883d161baba7daa179910ec94c
+=======
+>>>>>>> 289e85b2bc0098eb0f695d11c5decfdf59817f13
 /*
 .modal-dialog {
   
