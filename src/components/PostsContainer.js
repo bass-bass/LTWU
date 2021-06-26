@@ -7,9 +7,9 @@ class PostsContainer extends React.Component {
     handleToDate=(date)=>{
         date = new Date(date);
         if(date.getMinutes() < 10){
-            date = date.getFullYear()+"/"+(date.getMonth()+1)+"/"+date.getDate()+" "+date.getHours()+":0"+date.getMinutes()
+            date = date.getFullYear()+"/"+(date.getMonth()%12+1)+"/"+date.getDate()+" "+date.getHours()+":0"+date.getMinutes()
         } else {
-            date = date.getFullYear()+"/"+(date.getMonth()+1)+"/"+date.getDate()+" "+date.getHours()+":"+date.getMinutes()
+            date = date.getFullYear()+"/"+(date.getMonth()%12+1)+"/"+date.getDate()+" "+date.getHours()+":"+date.getMinutes()
         }
         
         return date;
